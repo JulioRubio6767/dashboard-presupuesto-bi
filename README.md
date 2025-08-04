@@ -1,5 +1,7 @@
 # Dashboard de Gestión de Presupuestos - Power BI
 
+![Dashboard de Recursos Humanos](https://github.com/JulioRubio6767/Dashboard-de-Gestion-de-Presupuestos---Power-BI/blob/main/presupuesto%20pbi.gif)
+
 ## 📌 Descripción General
 Solución analítica para el control y optimización de presupuestos corporativos, diseñada especialmente para organizaciones donde la gestión financiera representa un factor crítico en la toma de decisiones estratégicas.
 
